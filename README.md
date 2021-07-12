@@ -29,7 +29,7 @@ This part is unneeded. An pre-built version is available.
 
 ### Server
 ```
-cd bwr_server
+cd bwr_server (lol merged)
 npm install
 node index.js
 ```
